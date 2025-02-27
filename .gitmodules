@@ -1,0 +1,6 @@
+[submodule "atmel-atdh1150usb"]
+	path = atmel-atdh1150usb
+	url = https://github.com/programmable-logic-tools/atmel-atdh1150usb.git
+[submodule "terasic-usb-blaster"]
+	path = terasic-usb-blaster
+	url = https://github.com/programmable-logic-tools/terasic-usb-blaster.git
